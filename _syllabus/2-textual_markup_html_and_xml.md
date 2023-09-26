@@ -6,7 +6,22 @@ tags:
 ---
 
 ## Assignment due: 
+
+### Assignment 1 
 - Push two files to GitHub: one to your repository and another to the common repository.
+
+### Assignment 2 
+- Upload a file named "favorite_passage.md"
+
+- Copy into it a short passage (less than fifty words) from your favorite book.
+
+- Make a change that your classmates can easily find. Example: “As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic elephant.” (Kafka's Gregor Samsa found himself transformed into a gigantic insect, not an elephant).
+
+- Now go to the github account of your assigned classmate. Find the mistake in their code and make a pull request.
+
+- In order for this excersice to work, please all fix your classmate's quotes by 20:00 on Wednesday.
+
+- On 20:00, go to your code. Accept your classmate's pull request (provided that they found the mistake). After you accept the pull request, write at the end of the file "Mistake fixed"
 
 ## Before Class 
 - Install [Download Visual Studio Code](https://code.visualstudio.com/download).
