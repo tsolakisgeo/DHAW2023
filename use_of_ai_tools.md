@@ -5,9 +5,9 @@ menuItem: Use of AI Tools
 menuPosition: 6
 ---
 
-Students are only allowed to use any AI tools, such as ChatGPT or Dall-E 2, in this course when they have the prior permission of the instructor. Purpose of this class is to acquire a set of skills related to Digital Humanities. The use of artificial intelligence programs to help you solve the assignment and excersices is like cutting corners on the great travel of college education. As in C. P. Cavafy's Ithaka (translated by Edmund Keeley):
+Students are only allowed to use any AI tools, such as ChatGPT or Dall-E 2, in this course when they have the prior permission of the instructor. Purpose of this class is to acquire a set of skills related to Digital Humanities. The use of artificial intelligence programs to help you solve the assignment and excersices is like cutting corners on the great travel of college education. They will be a time that we will use AI tools together. Until then please have C. P. Cavafy's Ithaka (translated by Edmund Keeley) in mind:
 
-__As you set out for Ithaka__
+___As you set out for Ithaka___
 
 __hope your road is a long one,__
 
