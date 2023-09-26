@@ -61,7 +61,7 @@ From Week 1 to Week 8, students are asked to submit an excercise (4 points x 6 w
 
 
 ## Note for Weekly assignments and Weekly excecises
-When doing digital humanities tasks, it is expected that software will fail and computers will crash. Working with technology can often be unpredictable, so it is important for all of us to plan well ahead to anticipate any technical issues. Make sure that you are able to install the necessary software and do not wait until the night before class to start your assignment. Notify your instructor in advance for any technical problem relevant to the assignment that you face. Feel free to email the instructor for any question related to the project. If you are failing to complete the task, your questions should show that you have already put significant effort to your assignment and you are not simply looking for the right answer. Depending on the nature of your assignment project, you will be asked to submit to me by email or upload it on GitHub.
+When doing digital humanities tasks, it is expected that software will fail and computers will crash. Working with technology can often be unpredictable, so it is important for all of us to plan well ahead to anticipate any technical issues. Make sure that you are able to install the necessary software and do not wait until the night before class to start your assignment. Notify your instructor in advance for any technical problems you face relevant to your assignment. Feel free to email the instructor for any questions related to the project. If you are failing to complete the task, your questions should show that you have already put significant effort to your assignment and you are not simply looking for the right answer. Depending on the nature of your assignment project, you will be asked to submit to me by email or upload it on GitHub.
 
 
 ## Final Project (24 points)
@@ -72,4 +72,3 @@ With the help of the instructor, students will define and implement a final proj
 - quality of the project design and appearance
 
 Projects that overlap with a student’s field of study are particularly welcome. You can find a rubric on the class online repository that explains how your final project will be graded. Depending on the nature of your final project, you may submit it to me by email or upload it on GitHub.
-
