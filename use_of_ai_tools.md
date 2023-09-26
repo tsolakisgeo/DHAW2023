@@ -9,9 +9,9 @@ Students are only allowed to use any AI tools, such as ChatGPT or Dall-E 2, in t
 
 ___As you set out for Ithaka___
 
-__hope your road is a long one,__
+___hope your road is a long one,___
 
-__full of adventure, full of discovery.__
+___full of adventure, full of discovery.___
 
 _Laistrygonians, Cyclops,_
 
@@ -59,11 +59,11 @@ _to learn and go on learning from their scholars._
 
 
 
-__Keep Ithaka always in your mind.__
+___Keep Ithaka always in your mind.___
 
-__Arriving there is what you’re destined for.__
+___Arriving there is what you’re destined for.___
 
-__But don’t hurry the journey at all.__
+___But don’t hurry the journey at all.___
 
 _Better if it lasts for years,_
 
