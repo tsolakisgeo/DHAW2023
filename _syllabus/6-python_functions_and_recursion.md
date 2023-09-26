@@ -1,6 +1,6 @@
 ---
 class: 6
-day: Monday, October 10
+day: Thursday, October 12
 title: 'Python: Functions and Recursion'
 tags: 
 ---

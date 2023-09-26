@@ -1,6 +1,6 @@
 ---
-class: 16
-day: Friday, November 4
+class: 13
+day: Tuesday, November 7
 title: 'Augmented Reality'
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
-class: 24
-day: Wednesday, November 30
-title: Hackathon
+class: 17
+day: Tuesday, November 28
+title: 'Hackathon'
 tags: 
 ---
 

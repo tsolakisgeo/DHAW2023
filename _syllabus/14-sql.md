@@ -1,6 +1,6 @@
 ---
-class: 17
-day: Monday, November 7
+class: 14
+day: Thursday, November 9
 title: 'SQL'
 tags: 
 ---

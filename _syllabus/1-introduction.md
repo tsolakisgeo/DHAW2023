@@ -1,6 +1,6 @@
 ---
 class: 1
-day: Wednesday, September 28
+day: Tuesday, September 26
 title: Introduction
 tags: 
 ---
@@ -15,4 +15,9 @@ tags:
 
 
 ## Notes
-- Reminder to bring notebook computer to class.
+
+#### Reminder
+- Bring notebook computer to class.
+
+#### Helpfull websites
+- [Markdown Guide]([markdownguide](https://www.markdownguide.org/basic-syntax/))

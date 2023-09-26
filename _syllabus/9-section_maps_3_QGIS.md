@@ -1,12 +1,11 @@
 ---
 class: 9
-day: Wednesday, October 19
+day: Tuesday, October 26
 title: QGIS
 tags: 
 ---
 
 ## Assignment due: 
-- Create a map. The places you choose may reflect a story you want to narrate (e.g., the Greco-Persian Wars), a topic of your interest (e.g., Athletic Games in Ancient World) or a modern topic. Upload your map on GitHub.
 - Create a map by using the csv code we wrote in last class. Import it on QGIS, export a .jpg, and upload it on GitHub
 
 

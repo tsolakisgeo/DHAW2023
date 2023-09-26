@@ -1,6 +1,6 @@
 ---
 class: 7
-day: Wednesday, October 12
+day: Tuesday, October 17
 title: 'Create your own maps (1/2)'
 tags: 
 ---

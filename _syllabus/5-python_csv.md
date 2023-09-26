@@ -1,7 +1,7 @@
 ---
 class: 5
-day: Friday, October 7
-title: 'Python: TXT and CSV files'
+day: Tuesday, October 10
+title: 'Python: CSV files'
 tags: 
 ---
 

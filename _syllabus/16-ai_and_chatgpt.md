@@ -1,7 +1,7 @@
 ---
-class: 24
-day: Wednesday, November 30
-title: Hackathon
+class: 16
+day: Thursday, November 16
+title: Artificial Intelligence and ChatGPT
 tags: 
 ---
 

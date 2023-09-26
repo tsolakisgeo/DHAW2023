@@ -1,6 +1,6 @@
 ---
-class: 4
-day: Wednesday, October 5
+class: 3
+day: Tuesday, October 3
 title: 'Python: Introduction'
 tags: 
 ---

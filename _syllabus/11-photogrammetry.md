@@ -1,6 +1,6 @@
 ---
-class: 15
-day: Wednesday, November 2
+class: 11
+day: Tuesday, October 31
 title: Photogrammetry
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
-class: 18
-day: Wednesday, November 9
-title: 'Blender (1/2)'
+class: 12
+day: Thursday, November 2
+title: 'Blender'
 tags: 
 ---
 
@@ -54,3 +54,9 @@ tags:
 - [How to Create 3D Terrain with Google Maps and Blender!](https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek)
 - [Blender GIS - introduction and complete workflow](https://www.youtube.com/watch?v=u8Fg-u-VWUE)
 - [QGIS User 0036 - QGIS and Blender](https://www.youtube.com/watch?v=AJJNX243k9E&ab_channel=KlasKarlsson)
+- [Blender software: Pot reconstruction](https://youtu.be/eO90Qjfff2Y?t=1640) as part of the 3D Modelling of Synoikisis
+- [Geometry Nodes Procedural Modelling [Ancient Greek Column]](https://www.youtube.com/watch?v=tA6NS3Y6jzA&ab_channel=KaizenTutorials)
+- [Ancient Greek Column in Blender [3D Modeling]](https://www.youtube.com/watch?v=R9dKc9JEJi4&ab_channel=F%C3%A1bioCarvalho)
+- [3D Model In Minutes Blender 2.9 Gothic Columns & Arches](https://www.youtube.com/watch?v=VTgELK7Hi7o&ab_channel=3DTudor)
+- [How to Use Curves in Blender](https://www.youtube.com/watch?v=Ve9h7-E8EuM&ab_channel=RyanKingArt)
+- [Create Mirrored Duplicates Objects](https://www.youtube.com/watch?v=qn3zRuCs4kA&ab_channel=BlenderRookie)

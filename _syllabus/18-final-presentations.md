@@ -1,6 +1,6 @@
 ---
-class: 25
-day: Friday, December 2
+class: 18
+day: Thursday, November 30
 title: Final Project Presentations
 tags: 
 ---

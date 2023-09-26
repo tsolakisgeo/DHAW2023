@@ -1,7 +1,7 @@
 ---
 class: 4
-day: Wednesday, October 5
-title: 'Python: Introduction'
+day: Thursday, October 5
+title: 'Python: TXT files'
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 class: 10
-day: Friday, October 21
-title: 3D Imagining
+day: Thursday, October 26
+title: QGIS and Peripleo
 tags: 
 ---
 
