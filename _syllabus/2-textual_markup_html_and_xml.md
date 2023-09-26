@@ -16,6 +16,8 @@ tags:
   
 - You will get a field `"Name your file"`. Type there `"1/firstassignment.md"` (notice that I have a front slash immediately  followed by the file name. In this way I will create a folder and inside that folder I will create the file firstassignment.md)
 
+- Press `Commit changes...` and again `Commit changes`
+
 
 ### Assignment 2 
 - In the folder you created above create a file named `"favorite_passage.md"` (Notice that in this case I am not using the `"1/"`)
