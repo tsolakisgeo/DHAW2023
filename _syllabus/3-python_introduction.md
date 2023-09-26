@@ -6,6 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
+- Response Paper: Write a 200-word response paper either to today's reading or to the reading of [Class 2](2-section.html).
 - Upload three files on GitHub:
     1. An HTML that is using at least five different elements aside from those that are given in HTML skeleton.
     2. An CSS with at least three selectors that is connected to the HTML. 
