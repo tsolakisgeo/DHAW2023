@@ -8,10 +8,17 @@ tags:
 ## Assignment due: 
 
 ### Assignment 1 
-- Push two files to GitHub: one to your repository and another to the common repository.
+- Create a new repository named "CLCV22323".
+  
+- Remember to add a README file.
+  
+- Click "Add file" and "Create new file"
+  
+- You will get a field `"Name your file"`. Type there `"1/firstassignment.md"` (notice that I have a front slash immediately  followed by the file name. In this way I will create a folder and inside that folder I will create the file firstassignment.md)
+
 
 ### Assignment 2 
-- Upload a file named "favorite_passage.md"
+- In the folder you created above create a file named `"favorite_passage.md"` (Notice that in this case I am not using the `"1/"`)
 
 - Copy into it a short passage (less than fifty words) from your favorite book.
 
