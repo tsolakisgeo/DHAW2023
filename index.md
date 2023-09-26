@@ -54,16 +54,16 @@ While the digital tools and methods that are going to be presented will be exemp
 
 ## Basic course structure
 
-**Classes 1–3:** Text Markup.
+**Classes 1–2:** Introduction, Github, and Text Markup.
 
-**Classes 4–6:** Python.
+**Classes 3–6:** Python.
 
-**Classes 7-9:** Mapping.
+**Classes 7-10:** Mapping.
 
-**Classes 10-12:** 3D.
+**Classes 11-13:** 3D Modeling
 
-**Before Class 14:** Meet with the instructor to discuss your Final Project.
+**Before Class 12:** Meet with the instructor to discuss your Final Project.
 
-**Classes 13-25:** Various topics building on the themes covered in Classes 1-12.
+**Classes 14-17:** Various topics building on the themes covered in Classes 1-12.
 
-**Class 26:** Final Presentation.
+**Class 18:** Final Presentation.
