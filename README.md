@@ -1,6 +1,6 @@
 # Digital Humanities for the Ancient World - Syllabus
 
-The University of Chicago | Green Hall 117 | Tue Thu: 09:30 AM-10:50 AM
+The University of Chicago | Cobb Hall 104 | Tue Thu: 09:30 AM-10:50 AM
 
 [Georgios Tsolakis](https://tsolakisgeo.github.io/)
 
