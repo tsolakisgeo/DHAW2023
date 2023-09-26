@@ -17,9 +17,9 @@ tags:
 
 - Make a change that your classmates can easily find. Example: “As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic elephant.” (Kafka's Gregor Samsa found himself transformed into a gigantic insect, not an elephant).
 
-- Now go to the github account of your assigned classmate. Find the mistake in their code and make a pull request.
+- Now go to the GitHub account of your assigned classmate. Find the mistake in their code and make a pull request.
 
-- In order for this excersice to work, please all fix your classmate's quotes by 20:00 on Wednesday.
+- In order for this excercise to work, please all fix your classmate's quotes by 20:00 on Wednesday.
 
 - On 20:00, go to your code. Accept your classmate's pull request (provided that they found the mistake). After you accept the pull request, write at the end of the file "Mistake fixed"
 
