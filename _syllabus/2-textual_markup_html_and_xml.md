@@ -12,9 +12,9 @@ tags:
   
 - Remember to add a README file.
   
-- Click "Add file" and "Create new file"
+- Click `Add file` and `Create new file`.
   
-- You will get a field `"Name your file"`. Type there `"1/firstassignment.md"` (notice that I have a front slash immediately  followed by the file name. In this way I will create a folder and inside that folder I will create the file firstassignment.md)
+- You will get a field `Name your file`. Type there `1/firstassignment.md` (notice that I have a front slash immediately  followed by the file name. In this way I will create a folder and inside that folder I will create the file firstassignment.md)
 
 - Press `Commit changes...` and again `Commit changes`
 
