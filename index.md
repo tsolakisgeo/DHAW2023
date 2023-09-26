@@ -18,7 +18,7 @@ Green Hall 117.
 
 tsolakisgeo@uchicago.edu
 
-Office hours: 	Mondays, 15:30-17:00, Tuesdays, 13:00-14:00, and by appointment.
+Office hours: 	Tuesday 11:00-12:00, Thursday 14:00-15:30, and by appointment.
 
 
 ## What is this course about? 
