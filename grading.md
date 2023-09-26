@@ -36,7 +36,7 @@ If, for any reason, you cannot attend class, please notify me in advance. In cas
 
 
 ## Weekly responses (12 points)
-In every second meeting from Week 2 to Week 9, students are asked to submit a response worth 2 points. Your weekly responses are twofold:
+From Week 2 to Week 9, students are asked to submit a response worth 2 points. Your weekly responses are twofold:
 ### 1. Response paper (1 points)
 You must submit a response paper (min 80 words / max. 200 words) to one of the assigned articles. The paper is due before you arrive in class on the designated day. The aim of this assignment is for you to critically engaged with the assigned article. To do so effectively, make sure you are addressing:
 1. What is the author’s thesis? 
@@ -54,8 +54,12 @@ For each of the above four criteria, give a grade (A = Excellent; B = Fairly wel
 
 
 ## Weekly assignments (24 points)
-In the first meeting of Week 2 to Week 7 (4 points x 6 weekly assignments), you will be assigned short projects and exercises. These assignments aim to help you monitor how well you can navigate and use the different software and digital methods introduced in the class. The assignment is due before the beginning of the first meeting each week.
+From Week 2 to Week 9, students are asked to submit an assignment (4 points x 6 weekly assignments). This assigment have the character of a short project and aim to help you monitor how well you can navigate and use the different software and digital methods introduced in the class. The assignment is due on  7am in the morning before the beginning of the first meeting each week.
 When doing digital humanities tasks, it is expected that software will fail and computers will crash. Working with technology can often be unpredictable, so it is important for all of us to plan well ahead to anticipate any technical issues. Make sure that you are able to install the necessary software and do not wait until the night before class to start your assignment. Notify your instructor in advance for any technical problem relevant to the assignment that you face. Feel free to email the instructor for any question related to the project. If you are failing to complete the task, your questions should show that you have already put significant effort to your assignment and you are not simply looking for the right answer. Depending on the nature of your assignment project, you will be asked to submit to me by email or upload it on GitHub.
+
+
+## Weekly excecises (16 points)
+From Week 1 to Week 8, students are asked to submit an excercise (4 points x 6 weekly assignments) before the second meeting of the week. The aim of the weekly excecises are similar with those of weekly assigments but are shorter in scope. Weekly excecises are due on  7am in the morning before the beginning of the seconnd meeting each week.
 
 
 ## Final Project (24 points)

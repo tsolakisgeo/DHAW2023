@@ -9,7 +9,7 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 ## Lectures/seminars 
-Mondays, Wednesdays, Fridays 14:30-15:20.
+Tuesday and Thursday 9:30–10:50.
 
 Green Hall 117.
 
