@@ -19,9 +19,8 @@ tags:
 
 
 ## Reading 
-- Drucker, J. (2021) _The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship_, London/New York: Routledge, pp. 52-69. 
+- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)), ch. 1-3 (pp. 1-30).
 
 ## Extra Readings
 - [Python Programming for the Humanities](http://www.karsdorp.io/python-course/).
 - Altenkirch, T., Triguero, I. (2020) _Conceptual Programming with Python_.
-- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)).
