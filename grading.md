@@ -60,7 +60,7 @@ From Week 2 to Week 9, students are asked to submit an assignment (4 points x 6 
 From Week 1 to Week 8, students are asked to submit an exercise (2 points x 8 weekly assignments) before the second meeting of the week. Weekly exercises have a similar aim to weekly assignments but are shorter in scope. Weekly exercises are due at 7am in the morning before the beginning of the second meeting each week.
 
 
-## Note for Weekly assignments and Weekly excecises
+## Note for Weekly assignments and Weekly exercises
 When doing digital humanities tasks, it is expected that software will fail and computers will crash. Working with technology can often be unpredictable, so it is important for all of us to plan well ahead to anticipate any technical issues. Make sure that you are able to install the necessary software and do not wait until the night before class to start your assignment. Notify your instructor in advance for any technical problems you face relevant to your assignment. Feel free to email the instructor for any questions related to the project. If you are failing to complete the task, your questions should show that you have already put significant effort to your assignment and you are not simply looking for the right answer. Depending on the nature of your assignment project, you will be asked to submit to me by email or upload it on GitHub.
 
 
