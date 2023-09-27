@@ -50,6 +50,7 @@ For this assignment, you will have to choose two of the sites with which you hav
 - openness or restriction of their data
 - functionality of their interface and interaction with their data
 - connectivity across resources (under the principles of Linked Open Data)
+  
 For each of the above four criteria, give a grade (A = Excellent; B = Fairly well; C = Inadequate) and provide a short sentence explaining why (e.g., “Openness: C. I cannot extract and download my query in any format”). More information about this task and an example will be provided in the class meeting.
 
 
