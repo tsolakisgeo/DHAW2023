@@ -20,7 +20,7 @@ tags:
 
 
 ### Assignment 2 
-- Inside the folder you created above create a file named `"favorite_passage.md"` by following the instructions  above (Notice that in this case I am not using the `"1/"`).
+- Inside the folder you created above create a file named `favorite_passage.md` by following the instructions  above (Notice that in this case I am not using the `1/`).
 
 - Copy into it a short passage (less than fifty words) from your favorite book.
 
