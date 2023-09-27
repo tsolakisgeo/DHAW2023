@@ -5,9 +5,19 @@ title: 'Python: Introduction'
 tags: 
 ---
 
-## Assignment due: 
-- Response Paper: Write a 200-word response paper either to today's reading.
-- Upload your response paper on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `CLCV25922/studenthub/<username>/2`, where username is the folder that you created in our first class. FYI there is no folder "2" in your subdirectories, but I am confident that you remember how to create it (hint: you can do it either locally and push the changes or from GitHub as we saw in the first class).
+## Assignments due: 
+
+### Response Paper:
+Based on today's reading, what's the difference a variable, a parameter, and an argument.
+
+### Critique of two digital tool
+ - [Pleiades](https://pleiades.stoa.org/home)
+ - [Orbis](https://orbis.stanford.edu/)
+
+#### Instructions
+Upload your response paper and your digital tool critique on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `CLCV25922/studenthub/<username>/2`, where username is the folder that you created in our first class. FYI there is no folder "2" in your subdirectories, but I am confident that you remember how to create it (hint: you can do it either locally and push the changes or from GitHub as we saw in the first class).
+
+### Weekly assignment:
 - Upload three files on GitHub:
     1. An HTML that is using at least five different elements aside from those that are given in HTML skeleton.
     2. An CSS with at least three selectors that is connected to the HTML. 
