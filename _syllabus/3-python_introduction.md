@@ -8,11 +8,11 @@ tags:
 ## Assignments due: 
 
 ### Response Paper:
-Based on today's reading, what's the difference a variable, a parameter, and an argument.
+- Based on today's reading, what's the difference a variable, a parameter, and an argument.
 
 ### Critique of two digital tool
- - [Pleiades](https://pleiades.stoa.org/home)
- - [Orbis](https://orbis.stanford.edu/)
+- [Pleiades](https://pleiades.stoa.org/home)
+- [Orbis](https://orbis.stanford.edu/)
 
 You can find instructions about this assignment [here](https://tsolakisgeo.github.io/DHAW2023/grading.html#2-critique-of-two-digital-toolswebsites-05-point).
 
