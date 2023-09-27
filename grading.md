@@ -54,10 +54,10 @@ For each of the above four criteria, give a grade (A = Excellent; B = Fairly wel
 
 
 ## Weekly assignments (24 points)
-From Week 2 to Week 9, students are asked to submit an assignment (4 points x 6 weekly assignments). This assigment have the character of a short project and aim to help you monitor how well you can navigate and use the different software and digital methods introduced in the class. The assignment is due on  7am in the morning before the beginning of the first meeting each week.
+From Week 2 to Week 9, students are asked to submit an assignment (4 points x 6 weekly assignments). This assignment have the character of a short project and aims to help you monitor how well you can navigate and use the different software and digital methods introduced in the class. The assignment is due at 7am in the morning before the beginning of the first meeting each week.
 
-## Weekly excecises (16 points)
-From Week 1 to Week 8, students are asked to submit an excercise (4 points x 6 weekly assignments) before the second meeting of the week. Weekly excecises have a similar aim with weekly assigments but are shorter in scope. Weekly excecises are due on 7am in the morning before the beginning of the seconnd meeting each week.
+## Weekly exercises  (16 points)
+From Week 1 to Week 8, students are asked to submit an exercise (2 points x 8 weekly assignments) before the second meeting of the week. Weekly exercises have a similar aim to weekly assignments but are shorter in scope. Weekly exercises are due at 7am in the morning before the beginning of the second meeting each week.
 
 
 ## Note for Weekly assignments and Weekly excecises
