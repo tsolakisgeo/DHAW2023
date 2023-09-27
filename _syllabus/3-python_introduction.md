@@ -14,6 +14,8 @@ Based on today's reading, what's the difference a variable, a parameter, and an 
  - [Pleiades](https://pleiades.stoa.org/home)
  - [Orbis](https://orbis.stanford.edu/)
 
+You can find instructions about this assignment [here](https://tsolakisgeo.github.io/DHAW2023/grading.html#2-critique-of-two-digital-toolswebsites-05-point).
+
 #### Instructions
 Upload your response paper and your digital tool critique on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `CLCV25922/studenthub/<username>/2`, where username is the folder that you created in our first class. FYI there is no folder "2" in your subdirectories, but I am confident that you remember how to create it (hint: you can do it either locally and push the changes or from GitHub as we saw in the first class).
 
