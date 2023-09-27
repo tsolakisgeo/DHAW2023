@@ -20,7 +20,7 @@ tags:
 
 
 ### Assignment 2 
-- In the folder you created above create a file named `"favorite_passage.md"` (Notice that in this case I am not using the `"1/"`)
+- Inside the folder you created above create a file named `"favorite_passage.md"` by following the instructions  above (Notice that in this case I am not using the `"1/"`).
 
 - Copy into it a short passage (less than fifty words) from your favorite book.
 
@@ -28,7 +28,7 @@ tags:
 
 - Now go to the GitHub account of your assigned classmate. Find the mistake in their code and make a pull request.
 
-- In order for this excercise to work, please all fix your classmate's quotes by 20:00 on Wednesday.
+- In order for this exercise to work, please all fix your classmate's quotes by 20:00 on Wednesday.
 
 - On 20:00, go to your code. Accept your classmate's pull request (provided that they found the mistake). After you accept the pull request, write at the end of the file "Mistake fixed"
 
