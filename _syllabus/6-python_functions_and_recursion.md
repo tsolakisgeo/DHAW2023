@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- After you watch the last two videos in the Readings, expand on the advantages and disadvantages of using MS Excel (100 words).Upload your response paper on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `CLCV25922/studenthub/<username>/6`, where username is the folder that you created in our first class.
+- After you watch the last two videos in the Readings, expand on the advantages and disadvantages of using MS Excel (100 words).Upload your response paper on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `<username>/CLCV22123/6`, where username is the folder that you created in our first class.
 
 ## Reading 
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_: Chapter 3 (Functions) and 5 (Conditionals and Recursion). Available [here](https://greenteapress.com/thinkpython2/thinkpython2.pdf).
