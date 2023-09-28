@@ -22,7 +22,7 @@ Upload your response paper and your digital tool critique on GitHub: Create an [
 ### Weekly assignment:
 - Upload three files on GitHub:
     1. An HTML that is using at least five different elements aside from those that are given in HTML skeleton.
-    2. An CSS with at least three selectors that is connected to the HTML. 
+    2. A CSS with at least three selectors that is connected to the HTML. 
     3. An xml file with a text of your selection.
 
 
