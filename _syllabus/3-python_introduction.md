@@ -19,8 +19,6 @@ You can find instructions about this assignment [here](https://tsolakisgeo.githu
 ##### Instructions
 Upload your response paper and your digital tool critique on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `<username>/CLCV22123/3`. FYI, suppose there is no folder "2" in your subdirectories. In that case, you can either create a folder locally and push the changes with GitHub Desktop or create a new file on GitHub Online and type the `/` directory separator ahead of the name and extension for the new file.
 
-can do it either locally and push the changes or from GitHub as we saw in the first class).
-
 ### Weekly assignment:
 - Upload three files on GitHub:
     1. An HTML that is using at least five different elements aside from those that are given in HTML skeleton.
