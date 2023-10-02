@@ -47,6 +47,9 @@ tags:
 - [W3Schools](https://www.w3schools.com/tags/default.asp)
 - [The W3C Markup Validation Service](https://validator.w3.org/)
 - [Special Entities](https://www.htmlhelp.com/reference/html40/entities/special.html)
+- [Text Encoding Initiative (TEI)](http://www.tei-c.org) and [TEIGuidelines](https://www.google.com/url?q=http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
+- [EpiDoc: Epigraphic Documents in TEI XML](https://epidoc.stoa.org/) and [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/)
+- [The Library of Digital Latin Texts](https://ldlt.digitallatin.org/) and [LDLT Guidelines](https://digitallatin.github.io/guidelines/)
 
 #### Usefull extensions for VS Code
 - Live Server (it lanches a local server that displays live changes)
