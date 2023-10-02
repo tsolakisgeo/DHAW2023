@@ -7,7 +7,7 @@ tags:
 
 ## Assignments due: 
 
-### Response Paper:
+### Response Paper
 - Based on today's reading, what's the difference a variable, a parameter, and an argument.
 
 ### Critique of two digital tool
@@ -19,7 +19,7 @@ You can find instructions about this assignment [here](https://tsolakisgeo.githu
 ##### Instructions
 Upload your response paper and your digital tool critique on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `<username>/CLCV22123/3`. FYI, suppose there is no folder "3" in your subdirectories. In that case, you can either create a folder locally and push the changes with GitHub Desktop or create a new file on GitHub Online and type the `/` directory separator ahead of the name and extension for the new file.
 
-### Weekly assignment:
+### Weekly assignment
 - Upload three files on GitHub:
     1. An HTML that is using at least five different elements aside from those that are given in HTML skeleton.
     2. A CSS with at least three selectors that is connected to the HTML. 

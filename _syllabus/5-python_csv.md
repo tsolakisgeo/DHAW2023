@@ -5,19 +5,16 @@ title: 'Python: CSV files'
 tags: 
 ---
 
-## Assignments due: 
+## Assignments due:
 
-### Response Paper:
-- Based on today's reading, what's the difference a variable, a parameter, and an argument.
+### Response Paper
+- TDA
 
 ### Critique of two digital tool
-- [Pleiades](https://pleiades.stoa.org/home)
-- [Orbis](https://orbis.stanford.edu/)
+- TDA
+- TDA
 
-You can find instructions about this assignment [here](https://tsolakisgeo.github.io/DHAW2023/grading.html#2-critique-of-two-digital-toolswebsites-05-point).
-
-
-### Weekly assignment:
+### Weekly assignment
 - Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/5` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.
 
 ## Readings 
