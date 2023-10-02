@@ -13,4 +13,5 @@ tags:
 
 
 ## Reading 
+- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)), ch. 9, 13, and 14.
 - Flanders, J., Jannidis, F. (2008) “Data Modeling,” in S. Schreibman, R. Siemens and J. Unsworth (eds.) _A New Companion to Digital Humanities_ (Blackwell Companions to Literature and Culture, 1), Chichester: Wiley-Blackwell <https://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch16>.
