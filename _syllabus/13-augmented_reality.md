@@ -5,10 +5,18 @@ title: 'Augmented Reality'
 tags: 
 ---
 
-## Assignment due: 
-- Response paper of Faolli and Gilbert (100 words).
+## Assignments due:
+
+### Response Paper
+- TBD
+
+### Critique of two digital tool
+- TBD
+- TBD
+
+### Weekly assignment
 - Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
-- Have a look at Class 17 on potential tools/topics for your final project.
+- Have a look at the [proposed tools/topics](https://github.com/tsolakisgeo/DHAW2023/blob/gh-pages/_syllabus/13-augmented_reality.md#proposed-topics) for your final project.
 - Let me know when it would work for you to schedule a meeting to discuss your final project.
 
 ## Before Class 
