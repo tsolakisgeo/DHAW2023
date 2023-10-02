@@ -12,7 +12,7 @@ tags:
 ## Before Class 
 - Download and install [QGIS Standalone Installer](https://qgis.org/en/site/forusers/download.html) (Long term release (most stable)) 
 
-## Reading 
+## Readings 
 - Foote, K. E., Lynch, M. (1995) “Geographic Information Systems as an Integrating Technology: Context, Concepts, and Definitions, in The Geographer’s Craft <http://gisweb.massey.ac.nz/topic/webreferencesites/whatisgis/texaswhatisgis/texas/intro.htm>
 - Tsiafakis, D., Evangelidis, V. (2006) “GIS as an Interpretative Tool in Greek Archaeological Research,” in G. Priestnall - P. Aplin (eds.) Proceedings of the GIS Research UK. 14th Annual Conference. GISRUK 2006. 5-7 April 2006, Nottingam: 328-333.
 

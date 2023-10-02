@@ -12,7 +12,7 @@ tags:
 - TBD 
 - TBD 
 
-## Reading 
+## Readings 
 - TBD 
 - TBD 
 

@@ -37,7 +37,7 @@ tags:
 - Install the [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml) extension for Visual Studio Code. 
 - Install Download and install the [Oxygen XML Editor](https://www.oxygenxml.com/). This is a 30-day free trial. 
 
-## Reading 
+## Readings 
 - Pierazzo, E. (2008) “Textual Scholarship and Text Encoding,” in S. Schreibman, R. Siemens and J. Unsworth (eds.) *A New Companion to Digital Humanities* (Blackwell Companions to Literature and Culture 1), Chichester: Wiley-Blackwell, pp. 307-321. [[Link](https://doi.org/10.1002/9781118680605.ch21)] 
 
 ## Extra Reading

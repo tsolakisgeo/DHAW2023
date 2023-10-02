@@ -9,7 +9,7 @@ tags:
 - Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/4` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.
 
 
-## Reading 
+## Readings 
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)), ch. 5, 7 (only pp. 75-78), 8, 10, and 11 (only 125-128).
 
 
