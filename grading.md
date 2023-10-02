@@ -64,6 +64,20 @@ From Week 1 to Week 8, students are asked to submit an exercise (2 points x 8 we
 ## Note for Weekly assignments and Weekly exercises
 When doing digital humanities tasks, it is expected that software will fail and computers will crash. Working with technology can often be unpredictable, so it is important for all of us to plan well ahead to anticipate any technical issues. Make sure that you are able to install the necessary software and do not wait until the night before class to start your assignment. Notify your instructor in advance for any technical problems you face relevant to your assignment. Feel free to email the instructor for any questions related to the project. If you are failing to complete the task, your questions should show that you have already put significant effort to your assignment and you are not simply looking for the right answer. Depending on the nature of your assignment project, you will be asked to submit to me by email or upload it on GitHub.
 
+## Outline of Assignments
+
+| Week | Response paper | Critique | Weekly assignments | Weekly exercises |
+| -------------------------- | -------------------------- | -------------------------- | ----------------------- | -------------------------- |
+| Week 1 | \-             | \-       | \-                      | Class 2                    |
+| Week 2 | Class 3        | Class 3  | Class 3                 | Class 4                    |
+| Week 3 | Class 5        | Class 5  | Class 5                 | Class 6                    |
+| Week 4 | Class 7        | Class 7  | Class 7                 | Class 8                    |
+| Week 5 | Class 9        | Class 9  | Class 9                 | Class 10                   |
+| Week 6 | Class 11       | Class 11 | Class 11                | Class 12                   |
+| Week 7 | Class 13       | Class 13 | Class 13                | Class 14                   |
+| Week 8 | Class 15       | Class 15 | Final Project Proposals | Class 16                   |
+| Week 9 | Class 17       | Class 17 | Hackathon               | Final Project Presentation |
+
 
 ## Final Project (24 points)
 With the help of the instructor, students will define and implement a final project that makes use of one or more of the methods and digital tools that were examined in this class. The final project will be submitted in lieu of final exams and will be supported by a 1000-word paper. The project must demonstrate:
