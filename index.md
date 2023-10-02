@@ -11,7 +11,7 @@ menuPosition: 1
 ## Lectures/seminars 
 Tuesday and Thursday 9:30–10:50.
 
-Green Hall 117.
+Cobb Hall 104.
 
 ## Who am I (and how to contact me)? 
 [Georgios Tsolakis](https://classics.uchicago.edu/people/georgios-tsolakis)
