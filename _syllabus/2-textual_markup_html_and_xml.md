@@ -33,7 +33,7 @@ tags:
 - On 20:00, go to your code. Accept your classmate's pull request (provided that they found the mistake). After you accept the pull request, write at the end of the file "Mistake fixed"
 
 ## Before Class 
-- Install [Download Visual Studio Code](https://code.visualstudio.com/download).
+- Install [Visual Studio Code](https://code.visualstudio.com/download).
 - Install the [Scholarly XML](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml) extension for Visual Studio Code. 
 - Install Download and install the [Oxygen XML Editor](https://www.oxygenxml.com/). This is a 30-day free trial. 
 
