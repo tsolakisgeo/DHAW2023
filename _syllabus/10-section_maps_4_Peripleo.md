@@ -9,10 +9,6 @@ tags:
 - TBD 
 - Have a look at the [proposed tools/topics](https://github.com/tsolakisgeo/DHAW2023/blob/gh-pages/_syllabus/10-section_maps_4_Peripleo.md.md#proposed-topics) for your final project.
 
-## Before Class 
-- TBD 
-- TBD 
-
 ## Readings 
 - TBD 
 - TBD 
