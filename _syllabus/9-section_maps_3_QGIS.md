@@ -5,7 +5,16 @@ title: QGIS
 tags: 
 ---
 
-## Assignment due: 
+## Assignments due:
+
+### Response Paper
+- TBD
+
+### Critique of two digital tool
+- TBD
+- TBD
+
+### Weekly assignment
 - Create a map by using the csv code we wrote in last class. Import it on QGIS, export a .jpg, and upload it on GitHub
 
 

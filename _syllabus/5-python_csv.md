@@ -8,11 +8,11 @@ tags:
 ## Assignments due:
 
 ### Response Paper
-- TDA
+- TBD
 
 ### Critique of two digital tool
-- TDA
-- TDA
+- TBD
+- TBD
 
 ### Weekly assignment
 - Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/5` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.

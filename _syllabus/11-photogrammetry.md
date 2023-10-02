@@ -5,8 +5,16 @@ title: Photogrammetry
 tags: 
 ---
 
-## Assignment due: 
-- No assignment 
+## Assignments due:
+
+### Response Paper
+- TBD
+
+### Critique of two digital tool
+- TBD
+- TBD
+
+### Weekly assignment
 
 ## Before Class 
 - TBD 
