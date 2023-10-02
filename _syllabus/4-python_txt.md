@@ -14,4 +14,4 @@ tags:
 
 
 ## Extra Readings
-Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo.
+Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo (available also [here](https://www.nltk.org/book/). Check especially chapters 1-5). 
