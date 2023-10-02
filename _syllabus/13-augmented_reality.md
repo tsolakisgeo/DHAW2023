@@ -16,7 +16,6 @@ tags:
 
 ### Weekly assignment
 - Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
-- Have a look at the [proposed tools/topics](https://github.com/tsolakisgeo/DHAW2023/blob/gh-pages/_syllabus/13-augmented_reality.md#proposed-topics) for your final project.
 - Let me know when it would work for you to schedule a meeting to discuss your final project.
 
 ## Before Class 
@@ -44,21 +43,3 @@ tags:
 #### Helpfull websites
 - [Augment](https://www.augment.com/).
 - [Augment Universal Tracker](https://www.augment.com/assets/trackers/A4_Tracker.pdf).
-
-## Proposed topics 
-#### HTML
-- Create a website, e.g., "[Learning the Great Gatsby](https://learningthegreatgatsby.weebly.com/)"
-
-#### Python
-- Most-frequent-word analysis
-- Data Analysis with Pandas
-
-#### Mapping - QGIS
-- COVID-19 Mapping Project
-- Spatial analysis
-
-#### 3D Imaging
-- 3D models of OI
-
-#### 3D Modeling
-- Create a model of a favorite character

@@ -7,7 +7,7 @@ tags:
 
 ## Assignment due: 
 - TBD 
-- TBD 
+- Have a look at the [proposed tools/topics](https://github.com/tsolakisgeo/DHAW2023/blob/gh-pages/_syllabus/10-section_maps_4_Peripleo.md.md#proposed-topics) for your final project.
 
 ## Before Class 
 - TBD 
@@ -23,3 +23,21 @@ tags:
 
 ## Notes 
 - TBD
+
+## Proposed topics 
+#### HTML
+- Create a website, e.g., "[Learning the Great Gatsby](https://learningthegreatgatsby.weebly.com/)"
+
+#### Python
+- Most-frequent-word analysis
+- Data Analysis with Pandas
+
+#### Mapping - QGIS
+- COVID-19 Mapping Project
+- Spatial analysis
+
+#### 3D Imaging
+- 3D models of ISAC
+
+#### 3D Modeling
+- Create a model of a favorite character
