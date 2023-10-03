@@ -14,6 +14,3 @@ tags:
 
 ## Familiarize yourself with: 
 - [_Pleiades_](https://pleiades.stoa.org/). 
-
-## Notes 
-- TBD
