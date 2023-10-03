@@ -11,8 +11,8 @@ tags:
 - TBD
 
 ### Critique of two digital tool
-- TBD
-- TBD
+- [Papyri.info](https://papyri.info/)
+- [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 
 ### Weekly assignment
 - Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/5` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.

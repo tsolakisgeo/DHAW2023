@@ -11,8 +11,8 @@ tags:
 - TBD
 
 ### Critique of two digital tool
-- TBD
-- TBD
+- [Ancient Inscriptions from Israel / Palestine](https://www.inscriptionsisraelpalestine.org/)
+- [The Oxyrhynchus Papyri](https://oxyrhynchus.web.ox.ac.uk/)
 
 ### Weekly assignment
 - Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.

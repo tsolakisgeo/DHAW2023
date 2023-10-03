@@ -11,8 +11,9 @@ tags:
 - TBD
 
 ### Critique of two digital tool
-- TBD
-- TBD
+- [Thesaurus Linguae Latinae (TLL)](https://thesaurus.badw.de/en/tll-digital/tll-open-access.html)
+- [Digital Maps of the Ancient World](https://linktr.ee/DigitalMapsAW)
+
 
 ### Weekly assignment
 - Notebook: Download the notebook from `CLCV25922/material/7/`. Important: Download it from GitHub and do not pull it with GitHub Desktop, otherwise there is going to be a conflict of the different files when you push the changes. 

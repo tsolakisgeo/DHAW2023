@@ -5,7 +5,17 @@ title: 'Wikidata and SPARQL'
 tags: 
 ---
 
-## Assignment due: 
+## Assignments due:
+
+### Response Paper
+- TBD
+
+### Critique of two digital tool
+- [The Ancient Graffiti Project](http://ancientgraffiti.org/)
+- [Kenchreai Archaeological Archive](http://kenchreai.org/kaa)
+
+### Weekly assignment
+- TBD
 - SQL query: Create an ordered list with the city of each province that has the most monuments along with the counts of the monuments.
-- Repeat the process for creating a 3D model of Crete on your computer 
+
 

@@ -11,8 +11,8 @@ tags:
 - TBD
 
 ### Critique of two digital tool
-- TBD
-- TBD
+- [Pompeii: 3D-explorer](https://www.cyark.org/projects/pompeii/3D-Explorer)
+- [Searchable Greek Inscriptions (PHI)](https://epigraphy.packhum.org/)
 
 ### Weekly assignment
 
