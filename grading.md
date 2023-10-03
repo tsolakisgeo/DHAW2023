@@ -66,7 +66,7 @@ When doing digital humanities tasks, it is expected that software will fail and 
 
 ## Outline of Assignments
 
-| <div style="width:100px">Week</div> | Response paper | Critique | Weekly assignments | Weekly exercises |
+| <div style="width:100px">Week</div> | <div style="width:100px">Response paper</div> | <div style="width:100px">Critique</div> | <div style="width:100px">Weekly assignments</div> | <div style="width:100px">Weekly exercises</div> |
 | -------------------------- | -------------------------- | -------------------------- | ----------------------- | -------------------------- |
 | Week 1 | \-             | \-       | \-                      | Class 2                    |
 | Week 2 | Class 3        | Class 3  | Class 3                 | Class 4                    |
