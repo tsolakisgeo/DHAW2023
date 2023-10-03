@@ -41,8 +41,8 @@ tags:
 - Pierazzo, E. (2008) “Textual Scholarship and Text Encoding,” in S. Schreibman, R. Siemens and J. Unsworth (eds.) *A New Companion to Digital Humanities* (Blackwell Companions to Literature and Culture 1), Chichester: Wiley-Blackwell, pp. 307-321. [[Link](https://doi.org/10.1002/9781118680605.ch21)] 
 
 ## Extra Reading
-- Bodard, G., Stoyanova, S. (2016) “Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy,” in G. Bodard and M. Romanello (eds.) [_Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy_](https://www.ubiquitypress.com/site/chapters/e/10.5334/bat.b/), London: Ubiquity Press, pp. 51-68.
-- Dee, S., Foradi, M., Šarić, F. (2016) “Learning by Doing: Learning to Implement the TEI Guidelines Through Digital Classics Publication,” in G. Bodard and M. Romanello (eds.) [_Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy_](https://www.ubiquitypress.com/site/chapters/e/10.5334/bat.b/), London: Ubiquity Press, pp. 15-32.
+- Bodard, G., Stoyanova, S. (2016) “Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy,” in G. Bodard and M. Romanello (eds.) _Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy_, London: Ubiquity Press, pp. 51-68. [Link](https://www.ubiquitypress.com/site/chapters/e/10.5334/bat.b/)
+- Dee, S., Foradi, M., Šarić, F. (2016) “Learning by Doing: Learning to Implement the TEI Guidelines Through Digital Classics Publication,” in G. Bodard and M. Romanello (eds.) _Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy_, London: Ubiquity Press, pp. 15-32. [Link](https://www.ubiquitypress.com/site/chapters/e/10.5334/bat.b/)
 
 ## Notes
 

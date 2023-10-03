@@ -10,8 +10,8 @@ tags:
 
 
 ## Readings 
-- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)), ch. 5, 7 (only pp. 75-78), 8, 10, and 11 (only 125-128).
+- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ , ch. 5, 7 (only pp. 75-78), 8, 10, and 11 (only 125-128). [Link](https://www.greenteapress.com/thinkpython/thinkpython.html)
 
 
 ## Extra Readings
-Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo (available also [here](https://www.nltk.org/book/). Check especially chapters 1-5). 
+Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo. Check especially chapters 1-5. [Link](https://www.nltk.org/book/)

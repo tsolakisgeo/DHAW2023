@@ -31,7 +31,7 @@ Upload your response paper and your digital tool critique on GitHub: Create an [
 
 
 ## Readings 
-- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)), ch. 1-3 (pp. 1-30).
+- Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_, ch. 1-3 (pp. 1-30). [Link](https://www.greenteapress.com/thinkpython/thinkpython.html)
 
 ## Extra Readings
 - [Python Programming for the Humanities](http://www.karsdorp.io/python-course/).

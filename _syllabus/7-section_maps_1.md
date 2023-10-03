@@ -26,6 +26,7 @@ tags:
 
 ## Readings 
 - Southall, H., Mostern, R., Berman, M. L. (2011) “On historical gazetteers,” _International Journal of Humanities and Arts Computing_, 5; 2, pp. 127-145. DOI: 10.3366/ijhac.2011.0028.
+- Elliott, T. (2021) “The Pleiadic Gaze: Looking at Archaeology from the Perspective of a Digital Gazetteer,” in K. Göransson (ed.) Classical Archaeology in the Digital Age – The AIAC Presidential Panel, Heidelberg: Propylaeum, pp. 43-51. [Link](https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/708/chapter/10612)
 
 ## Notes
 
