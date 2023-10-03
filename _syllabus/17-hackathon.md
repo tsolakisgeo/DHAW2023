@@ -16,3 +16,6 @@ tags:
 
 ### Weekly assignment
 No assignment. We will work together in class on your projects. Come in class with questions and problems.
+
+## Readings 
+- TBD
