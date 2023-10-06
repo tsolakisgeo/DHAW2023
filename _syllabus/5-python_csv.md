@@ -8,7 +8,7 @@ tags:
 ## Assignments due:
 
 ### Response Paper
-- TBD
+- Based on [this video](https://www.youtube.com/watch?v=J-drts33N8g) describe in your own words what is data normalization and what's the goal of the first, second, and third normal forms. Feel free to use other resources, but you must paraphrase them.
 
 ### Critique of two digital tool
 - [Papyri.info](https://papyri.info/)
@@ -20,6 +20,7 @@ tags:
 ## Readings 
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_, ch. 9, 13, and 14. [Link](https://www.greenteapress.com/thinkpython/thinkpython.html)
 - Heath, S. (2022) “Estimating and Mapping Roman Amphitheater Seating Capacity,” _Journal of Ancient History and Archaeology_, 9; 4, pp. 239-248. [Link](https://hcommons.org/deposits/item/hc:51407/)
+- [This video](https://www.youtube.com/watch?v=J-drts33N8g) on Database Normalization.
 - Three videos by Matt Parker:
     1 [Stand-up comedy routine about Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I).
     2 [When Spreadsheets Attack!](https://www.youtube.com/watch?v=yb2zkxHDfUE)
