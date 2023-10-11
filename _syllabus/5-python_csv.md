@@ -15,7 +15,7 @@ tags:
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 
 ### Weekly assignment
-- Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/5` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.
+- Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/5` on GitHub and paste its URL to the respective Weekly assignmentpage on Canvas.
 
 ## Readings 
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_, ch. 9, 13, and 14. [Link](https://www.greenteapress.com/thinkpython/thinkpython.html)

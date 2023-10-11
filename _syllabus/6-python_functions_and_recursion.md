@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- After you watch the last two videos in the Readings, expand on the advantages and disadvantages of using MS Excel (100 words).Upload your response paper on GitHub: Create an [.md file](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3), paste your response paper, and push it to the directory `<username>/CLCV22123/6`, where username is the folder that you created in our first class.
+- Exercises on Pandas. Submit a Jupyter Notebook.
 
 ## Readings 
 - Miller, B. N., Ranum, D. L. (2013) Problem Solving with Algorithms and Data Structures. Release 3.0. [Link](https://runestone.academy/ns/books/published/pythonds3/Recursion/toctree.html)

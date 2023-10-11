@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/4` on GitHub and paste its URL to the respective Weekly assignemt page on Canvas.
+- Upload the Jupyter Notebook with the exercises to the directory `<username>/CLCV22123/4` on GitHub and paste its URL to the respective Weekly assignmentpage on Canvas.
 
 
 ## Readings 
