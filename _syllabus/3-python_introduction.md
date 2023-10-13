@@ -35,6 +35,6 @@ Upload your response paper and your digital tool critique on GitHub: Create an [
 
 ## Extra Readings
 - Karsdorp, F. (2021) _[Python Programming for the Humanities](http://www.karsdorp.io/python-course/)_. The course is inactive but you can find [the notebooks on GitHub](https://github.com/fbkarsdorp/python-course).
-- [Python Programming for the Humanities](https://github.com/sonofmun/MM-Python-Course). This is an adjectment of the previous resource with examples from ancient Greek.
+- [Python Programming for the Humanities](https://github.com/sonofmun/MM-Python-Course). This repository is adapted from the previous resource with examples in ancient Greek.
 - Karsdorp, F., Kestemont, M., Riddell, A. (2021) _[Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/)_.
 - Altenkirch, T., Triguero, I. (2020) _Conceptual Programming with Python_.
