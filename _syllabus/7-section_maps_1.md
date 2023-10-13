@@ -16,7 +16,7 @@ tags:
 
 
 ### Weekly assignment
-- Notebook: Download the notebook from `CLCV25922/material/7/`. Important: Download it from GitHub and do not pull it with GitHub Desktop, otherwise there is going to be a conflict of the different files when you push the changes. 
+- Notebook: Download the notebook from Canvas. 
 - Copy it to your local directory `<username>/CLCV22123/7/`.
 - Open it and follow the instructions. Let me know if you have any questions. It will take you more or less an hour to complete it. There is no problem if you won't manage to asnwer a quiz, but please do your best.  
 - Do not forget to push it on GitHub when you are done.
