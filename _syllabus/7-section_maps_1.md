@@ -6,9 +6,10 @@ tags:
 ---
 
 ## Assignments due:
-
+  
 ### Response Paper
-- TBD
+- What is a historical gazetteer, and what's its purpose? 
+- How does Pleiades differ from its printed predecessor, Barrington Atlas?
 
 ### Critique of two digital tool
 - [Thesaurus Linguae Latinae (TLL)](https://thesaurus.badw.de/en/tll-digital/tll-open-access.html)
