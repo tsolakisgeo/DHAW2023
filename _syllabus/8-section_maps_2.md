@@ -10,6 +10,3 @@ tags:
 
 ## Readings 
 - Gillies, S. (2010) '[What's an Un-GIS?](https://pleiades.stoa.org/docs/papers-and-presentations/whats-an-un-gis)', _Pleiades: Documents_.
-
-## Familiarize yourself with: 
-- [_Pleiades_](https://pleiades.stoa.org/). 
