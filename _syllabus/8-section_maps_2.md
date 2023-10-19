@@ -21,3 +21,6 @@ tags:
 #### Shortcuts for VSCode
 - Shift + Alt + F (Windows)
 - Shift + Option + F (Mac)
+
+#### Tag for Peripleo
+`<iframe src=" " style="width:100%; height:50vw;"></iframe>`

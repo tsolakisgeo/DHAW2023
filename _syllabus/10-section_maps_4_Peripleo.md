@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- TBD 
+- Create a map by using the csv code we wrote in last class. Import it on QGIS, export a .jpg, and upload it on GitHub
 - Have a look at the [proposed tools/topics](https://github.com/tsolakisgeo/DHAW2023/blob/gh-pages/_syllabus/10-section_maps_4_Peripleo.md.md#proposed-topics) for your final project.
 
 ## Readings 

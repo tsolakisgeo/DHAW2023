@@ -15,7 +15,7 @@ tags:
 - [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
 
 ### Weekly assignment
-- Create a map by using the csv code we wrote in last class. Import it on QGIS, export a .jpg, and upload it on GitHub
+- TBD
 
 
 ## Before Class 
