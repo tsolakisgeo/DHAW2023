@@ -10,3 +10,10 @@ tags:
 
 ## Readings 
 - Gillies, S. (2010) '[What's an Un-GIS?](https://pleiades.stoa.org/docs/papers-and-presentations/whats-an-un-gis)', _Pleiades: Documents_.
+
+## Notes
+
+#### Helpful websites
+- [Recogito](https://recogito.pelagios.org/)
+- [Loco:lligo](https://docuracy.github.io/Locolligo/)
+- [Peripleo](https://github.com/britishlibrary/peripleo)
