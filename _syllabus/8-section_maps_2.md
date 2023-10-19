@@ -17,3 +17,8 @@ tags:
 - [Recogito](https://recogito.pelagios.org/)
 - [Loco:lligo](https://docuracy.github.io/Locolligo/)
 - [Peripleo](https://github.com/britishlibrary/peripleo)
+
+####
+Shortcuts for VSCode
+- Shift + Alt + F (Windows)
+- Shift + Option + F (Mac)
