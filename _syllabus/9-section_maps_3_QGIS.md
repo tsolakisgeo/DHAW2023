@@ -7,6 +7,60 @@ tags:
 
 ## Assignments due:
 
+#### Python and JSON
+Write a function `def export_coordinates(input_list, filename)` that takes a list of PleiadesIDs as an input and creates an csv file with four columns (named `'title', 'pleiadesID', 'longitude', 'latitude'`). The function should:
+- test if a particular path (e.g., `['features'][0]['geometry']['coordinates']`) exists in the JSON file. If such a path does not exist, the function should handle the error/exception. Hint: do not use `if statements`.
+- make requests to the Pleiades and return the respective fields for the mentioned columns
+- export the results to a csv file, whose name will be passed as an argument.
+- Upload the Jupyter Notebook and the csv file on Github `(<username>/CLCV22123/9/)`.
+- Post a link to the folder on Canvas.
+
+#### Peripleo
+Use the csv file you submitted for Exercise 4. 
+
+- Rename the titles of your headers to "title", "longitude", "latitude", and "url". 
+- Add another column named "depictions" and populate that column with links to images you have found online for each respective place. 
+- Save.
+- Upload the csv file to [Locolligo](https://docuracy.github.io/Locolligo/).
+- Download the JSON file.
+- Open the JSON file in a text editor. Search for jpg and change the respective field as seen below
+
+__Original__:
+
+```      
+ "depictions": [
+
+    {
+
+      "@id": "https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg"
+
+    }
+
+  ]
+```
+
+__Final__:
+
+```      
+ "depictions": [
+
+    {
+
+      "@id": "https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg",
+
+      "title": "The Acropolis Museum as seen from the top of the Acropolis of Athens",
+
+      "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
+
+    }
+
+  ]
+```
+
+- Upload your file to your Peripleo repository. 
+- Make the necessary changes so that your new JSON file will be the source of Peripleo.
+- Post a link to your Peripleo map (e.g., https://britishlibrary.github.io/peripleo) on Canvas.
+  
 ### Response Paper
 - TBD
 
