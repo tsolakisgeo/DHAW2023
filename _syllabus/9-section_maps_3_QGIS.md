@@ -21,10 +21,9 @@ Finally:
 Use the csv file you submitted for Exercise 4. 
 
 - Rename the titles of your headers to "title", "longitude", "latitude", and "url". 
-- Add another column named "depictions" and populate that column with links to images you have found online for each respective place. 
-- Save.
+- Add another column named "depictions" and populate that column with links to images you have found online for each respective place.
 - Upload the csv file to [Locolligo](https://docuracy.github.io/Locolligo/).
-- Download the JSON file.
+- Download your input as a JSON file.
 - Open the JSON file in a text editor. Search for jpg and change the respective field as seen below
 
 __Original__:
