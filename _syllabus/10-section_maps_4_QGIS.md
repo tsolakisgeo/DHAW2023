@@ -1,7 +1,7 @@
 ---
 class: 10
 day: Thursday, October 26
-title: QGIS and Peripleo
+title: QGIS (2/2)
 tags: 
 ---
 

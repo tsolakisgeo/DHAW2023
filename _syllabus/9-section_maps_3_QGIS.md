@@ -1,7 +1,7 @@
 ---
 class: 9
 day: Tuesday, October 26
-title: QGIS
+title: QGIS (1/2)
 tags: 
 ---
 
