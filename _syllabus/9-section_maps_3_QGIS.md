@@ -7,15 +7,17 @@ tags:
 
 ## Assignments due:
 
-#### Python and JSON
+### Python and JSON
 Write a function `def export_coordinates(input_list, filename)` that takes a list of PleiadesIDs as an input and creates an csv file with four columns (named `'title', 'pleiadesID', 'longitude', 'latitude'`). The function should:
 - test if a particular path (e.g., `['features'][0]['geometry']['coordinates']`) exists in the JSON file. If such a path does not exist, the function should handle the error/exception. Hint: do not use `if statements`.
 - make requests to the Pleiades and return the respective fields for the mentioned columns
 - export the results to a csv file, whose name will be passed as an argument.
+
+Finally:
 - Upload the Jupyter Notebook and the csv file on Github `(<username>/CLCV22123/9/)`.
 - Post a link to the folder on Canvas.
 
-#### Peripleo
+### Peripleo
 Use the csv file you submitted for Exercise 4. 
 
 - Rename the titles of your headers to "title", "longitude", "latitude", and "url". 
