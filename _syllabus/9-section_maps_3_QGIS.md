@@ -73,6 +73,7 @@ __Final__:
 - Upload your file to your Peripleo repository. 
 - Make the necessary changes so that your new JSON file will be the source of Peripleo.
 - Post a link to your Peripleo map (e.g., https://britishlibrary.github.io/peripleo) on Canvas.
+- If you have successfully followed the previous steps, your map will show your places. If you chick on each place an image should appear.
 
 ## Before Class 
 - Download and install [QGIS Standalone Installer](https://qgis.org/en/site/forusers/download.html) (Long term release (most stable)) 
