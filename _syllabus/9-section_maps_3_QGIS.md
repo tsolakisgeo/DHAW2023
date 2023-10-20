@@ -15,7 +15,7 @@ tags:
 - [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
 
 ### Weekly assignment
-#### __Python and JSON__
+### 1. Python and JSON
 Write a function `def export_coordinates(input_list, filename)` that takes a list of PleiadesIDs as an input and creates an csv file with four columns (named `'title', 'pleiadesID', 'longitude', 'latitude'`). The function should:
 - test if a particular path (e.g., `['features'][0]['geometry']['coordinates']`) exists in the JSON file. If such a path does not exist, the function should handle the error/exception. Hint: do not use `if statements`.
 - make requests to the Pleiades and return the respective fields for the mentioned columns
@@ -25,7 +25,7 @@ Finally:
 - Upload the Jupyter Notebook and the csv file on Github `(<username>/CLCV22123/9/)`.
 - Post a link to the folder on Canvas.
 
-#### __Peripleo__
+### 2. Peripleo
 Use the csv file you submitted for Exercise 4. 
 
 - Rename the titles of your headers to "title", "longitude", "latitude", and "url". 
