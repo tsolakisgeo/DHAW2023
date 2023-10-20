@@ -9,10 +9,14 @@ tags:
 
 ### Response Paper
 - Based on your readings, please provide a short (max. 200 words) response on what GIS is and how it informs the archaeological research.
+
+Upload your response paper on GitHub in the directory <username>/CLCV22123/9 and paste a link to the file on Canvas.
   
 ### Critique of two digital tool
 - [The Homer Multitext project](https://www.homermultitext.org/)
 - [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
+
+Upload your critiquie on GitHub in the directory <username>/CLCV22123/9 and paste a link to the file on Canvas.
 
 ### Weekly assignment
 ### 1. Python and JSON
