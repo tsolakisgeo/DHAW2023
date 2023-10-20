@@ -8,8 +8,8 @@ tags:
 ## Assignments due:
 
 ### Response Paper
-- TBD
-
+- Based on your readings, please provide a short (max. 200 words) response on what GIS is and how it informs the archaeological research.
+  
 ### Critique of two digital tool
 - [The Homer Multitext project](https://www.homermultitext.org/)
 - [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
@@ -75,7 +75,7 @@ __Final__:
 
 ## Readings 
 - Foote, K. E., Lynch, M. (1995) “Geographic Information Systems as an Integrating Technology: Context, Concepts, and Definitions, in The Geographer’s Craft <http://gisweb.massey.ac.nz/topic/webreferencesites/whatisgis/texaswhatisgis/texas/intro.htm>
-- Tsiafakis, D., Evangelidis, V. (2006) “GIS as an Interpretative Tool in Greek Archaeological Research,” in G. Priestnall - P. Aplin (eds.) Proceedings of the GIS Research UK. 14th Annual Conference. GISRUK 2006. 5-7 April 2006, Nottingam: 328-333.
+- Graml, C., Hunziker, M., Vukadin, K. (2019) “Cult and Crisis: A GIS Approach to the Sacred Landscape of Hellenistic Attica,” _Open Archaeology_, 5; 1, p. 383-395.
 
 ## Extra readings
 - Watch [this video](https://www.youtube.com/watch?v=hVuPAAAAoso&ab_channel=SarahE.Bond) on Pleiades and Antiquity À-la-carte by Tom Elliott and Sarah Bond (the video is a bit old so some features may have slightly changed).
