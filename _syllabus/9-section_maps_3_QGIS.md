@@ -89,6 +89,8 @@ __Final__:
 ## Notes 
 
 #### Helpfull websites
+- Google Maps Satellite Imagery
+  - `https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}`.
 - [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/), that provides different resources for diggital mapping of the ancient world. You may want to check the Spapefiles in [Resources](http://awmc.unc.edu/wordpress/map-files/).
 - [Mapping the Ancient Mediterranean with QGIS: A Quick Guide](https://sites.temple.edu/tudsc/2017/01/31/mapping-the-ancient-mediterranean-with-qgis-a-quick-gude/). From where you can download data on mapping data for the ancient world:
   - [Coastline](http://awmc.unc.edu/awmc/map_data/shapefiles/physical_data/coastline/)
