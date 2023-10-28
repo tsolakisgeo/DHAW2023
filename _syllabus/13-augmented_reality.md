@@ -15,8 +15,7 @@ tags:
 - [The Oxyrhynchus Papyri](https://oxyrhynchus.web.ox.ac.uk/)
 
 ### Weekly assignment
-- Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
-- Let me know when it would work for you to schedule a meeting to discuss your final project.
+- TBD
 
 ## Before Class 
 - Download the [Cities Database](http://oxrep.classics.ox.ac.uk/oxrep/docs/Hanson2016/Hanson2016_CitiesDatabase_OxREP.xlsx) of Hanson, J. W. (2016) _Cities Database_ (OXREP databases). Version 1.0. Accessed (date): <http://oxrep.classics.ox.ac.uk/databases/cities/>. DOI: <https://doi.org/10.5287/bodleian:eqapevAn8>

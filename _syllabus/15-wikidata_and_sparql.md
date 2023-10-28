@@ -6,6 +6,7 @@ tags:
 ---
 
 ## Assignments due:
+- Be prepare to present in three minutes the general directions of your final project.
 
 ### Response Paper
 - TBD

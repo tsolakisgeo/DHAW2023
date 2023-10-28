@@ -6,8 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- SQL query: Create an ordered list with the city of each province that has the most monuments along with the counts of the monuments.
-
+- Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
 ## Before Class 
 - Download [Blender](https://www.blender.org/download/)
 

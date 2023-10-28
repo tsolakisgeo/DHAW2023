@@ -108,4 +108,3 @@ __Final__:
 - [EarthExplorer](https://earthexplorer.usgs.gov/). It requires registration. [Watch Obtaining + Loading Landsat Imagery in QGIS 3.10](https://www.youtube.com/watch?v=mBk2VIMawRE&ab_channel=MiddleburyRemoteSensing) for a step-by-step guide on how to use the data from EarthExplorer.
 - [Natural Earth](https://www.naturalearthdata.com/downloads/10m-raster-data/10m-natural-earth-2/).
 
-<iframe src="https://tsolakisgeo.github.io/DHAW2023peripleo/" style="width:100%; height:50vw;"></iframe>

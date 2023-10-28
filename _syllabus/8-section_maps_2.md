@@ -24,3 +24,5 @@ tags:
 
 #### Tag for Peripleo
 `<iframe src=" " style="width:100%; height:50vw;"></iframe>`
+
+<iframe src="https://tsolakisgeo.github.io/DHAW2023peripleo/" style="width:100%; height:50vw;"></iframe>
