@@ -8,7 +8,7 @@ tags:
 ## Assignments due:
 
 ### Response Paper
-- TBD
+- Based on your readings, expand shortly (less than 80-100 words) how has the integration of augmented reality in archaeology readings impacted our understanding of historical sites and museums.
 
 ### Critique of two digital tool
 - [Ancient Inscriptions from Israel / Palestine](https://www.inscriptionsisraelpalestine.org/)

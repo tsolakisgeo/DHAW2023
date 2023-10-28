@@ -12,4 +12,4 @@ tags:
 ## Readings 
 We are going to have a discussion on the use of AI in academia. How the use of ChatGPT changes/changed our world?
 
-- TBD
+- Morozov, E. (2023) The True Threat of Artificial Intelligence (The New York Times). Available [here](https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html).

@@ -6,18 +6,17 @@ tags:
 ---
 
 ## Assignments due:
-- No assignement.
 - Be prepare to present in three minutes the general directions of your final project.
 
 ### Response Paper
-- TBD
+- Based on your readings, expand shortly (less than 80 words) on the advantages of SPARQL over the other programming languages that we have examined this quarter. 
 
 ### Critique of two digital tool
 - [The Ancient Graffiti Project](http://ancientgraffiti.org/)
 - [Kenchreai Archaeological Archive](http://kenchreai.org/kaa)
 
 ### Weekly assignment
-- TBD
+- No weekly response.
 - SQL query: Create an ordered list with the city of each province that has the most monuments along with the counts of the monuments.
 
 ## Readings
