@@ -11,6 +11,11 @@ tags:
 ## Before Class 
 - Download [Blender](https://www.blender.org/download/)
 
+## Readings 
+- Petras, E. (2021) Creating a 3D Map of an Archaeological Site in Blender. Available [here](https://sites.temple.edu/tudsc/2021/04/03/creating-a-3d-map-of-an-archaeological-site-in-blender/).
+- Porter, S. (2022) Mixing things up in Three Dimensions: The Many Uses of Blender in Archaeology. Available [here](https://www.cambridge.org/core/blog/2022/10/26/mixing-things-up-in-three-dimensions-the-many-uses-of-blender-in-archaeology/).
+- Košťál, N. (2019) Archaeology for 3D Modelling. Available [here](https://www.youtube.com/watch?v=bwMTTJogurE).
+
 ## Notes 
 
 #### Blender shortcuts
