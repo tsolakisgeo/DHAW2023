@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignments due:
-- Repeat the process we followed in class to create a 3D model of an archaeological object with Blender. 
+- Repeat the process we followed in class to create a 3D model of an archaeological object with Blender. Upload your file on GitHub in the directory `<username>/CLCV22123/13`. Put a link to your file on Canvas.
 
 ### Response Paper
 - TBD
