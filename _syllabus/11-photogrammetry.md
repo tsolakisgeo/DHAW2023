@@ -8,7 +8,7 @@ tags:
 ## Assignments due:
 
 ### Response Paper
-- Based on your readings expand shortly (less than 80 words) how 3D modeling has helped the archaeological process.
+- Based on your readings, expand shortly (less than 80 words) how 3D modeling has assisted the archaeological process.
 
 ### Critique of two digital tool
 - [Pompeii: 3D-explorer](https://www.cyark.org/projects/pompeii/3D-Explorer)
