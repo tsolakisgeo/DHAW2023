@@ -5,7 +5,9 @@ title: Final Project Presentations
 tags: 
 ---
 
-Present your final project in 5-6 minutes. Provide a clear thesis of your project. Give emphasis on the tools you used to complete your project. Provide introduction to the topic you are covering or give a historical context.
-
-## Notes 
+## Final Presentation 
+- Present your final project in 7-8 minutes. Provide a clear thesis of your project. Give emphasis on the tools you used to complete your project. Provide introduction to the topic you are covering or give a historical context.
 - Let me know if you want to invite anyone to attend your final presentation.
+
+## Final Project
+- Project and paper due on Thursday, December 7, 23:59.

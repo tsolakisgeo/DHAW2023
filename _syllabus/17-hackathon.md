@@ -6,6 +6,8 @@ tags:
 ---
 
 ## Assignments due:
+- No assignement.
+- Be prepared to talk about problems you face with your final project.
 
 ### Response Paper
 - TBD

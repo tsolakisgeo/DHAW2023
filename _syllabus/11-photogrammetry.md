@@ -6,6 +6,7 @@ tags:
 ---
 
 ## Assignments due:
+- Create a map
 
 ### Response Paper
 - TBD
@@ -17,7 +18,7 @@ tags:
 ### Weekly assignment
 
 ## Before Class 
-- TBD 
+- Download 
 - TBD 
 
 ## Readings 

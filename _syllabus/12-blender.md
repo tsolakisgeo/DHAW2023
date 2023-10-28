@@ -7,6 +7,7 @@ tags:
 
 ## Assignment due: 
 - Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
+
 ## Before Class 
 - Download [Blender](https://www.blender.org/download/)
 
