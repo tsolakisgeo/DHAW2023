@@ -6,7 +6,6 @@ tags:
 ---
 
 ## Assignments due:
-- Repeat the process we followed in class to create a 3D model of an archaeological object with Blender. Upload your file on GitHub in the directory `<username>/CLCV22123/13`. Put a link to your file on Canvas.
 
 ### Response Paper
 - TBD
@@ -16,7 +15,7 @@ tags:
 - [The Oxyrhynchus Papyri](https://oxyrhynchus.web.ox.ac.uk/)
 
 ### Weekly assignment
-- TBD
+- Repeat the process we followed in class to create a 3D model of an archaeological object with Blender. Upload your file on GitHub in the directory `<username>/CLCV22123/13`. Put a link to your file on Canvas.
 
 ## Before Class 
 - Download the [Cities Database](http://oxrep.classics.ox.ac.uk/oxrep/docs/Hanson2016/Hanson2016_CitiesDatabase_OxREP.xlsx) of Hanson, J. W. (2016) _Cities Database_ (OXREP databases). Version 1.0. Accessed (date): <http://oxrep.classics.ox.ac.uk/databases/cities/>. DOI: <https://doi.org/10.5287/bodleian:eqapevAn8>
