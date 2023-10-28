@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- Create a 3D model of an interesting object in Agistoft Metashape and upload it on Sketchfab.
+- Create two 3D models of interesting objects in Agisoft Metashape and upload them on Sketchfab. Put the link to your model on Canvas.
 
 ## Before Class 
 - Download [Blender](https://www.blender.org/download/)

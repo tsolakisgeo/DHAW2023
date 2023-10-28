@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignments due:
-- 
+- Repeat the process we followed in class to create a 3D model of an archaeological object with Blender. 
 
 ### Response Paper
 - TBD
