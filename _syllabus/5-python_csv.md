@@ -10,7 +10,7 @@ tags:
 ### Response Paper
 - Based on [this video](https://www.youtube.com/watch?v=J-drts33N8g) describe in your own words what is data normalization and what's the goal of the first, second, and third normal forms. Feel free to use other resources, but you must paraphrase them.
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Papyri.info](https://papyri.info/)
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 

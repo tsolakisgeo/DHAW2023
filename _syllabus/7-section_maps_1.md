@@ -11,7 +11,7 @@ tags:
 - What is a historical gazetteer, and what's its purpose? 
 - How does Pleiades differ from its printed predecessor, Barrington Atlas?
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Thesaurus Linguae Latinae (TLL)](https://thesaurus.badw.de/en/tll-digital/tll-open-access.html)
 - [Digital Maps of the Ancient World](https://linktr.ee/DigitalMapsAW)
 

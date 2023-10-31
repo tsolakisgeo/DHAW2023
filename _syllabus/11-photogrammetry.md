@@ -10,7 +10,7 @@ tags:
 ### Response Paper
 - Based on your readings, expand shortly (less than 80 words) how 3D modeling has assisted the archaeological process.
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Pompeii: 3D-explorer](https://www.cyark.org/projects/pompeii/3D-Explorer)
 - [Searchable Greek Inscriptions (PHI)](https://epigraphy.packhum.org/)
 

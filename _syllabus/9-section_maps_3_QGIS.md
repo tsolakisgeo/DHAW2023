@@ -12,7 +12,7 @@ tags:
 
 Upload your response paper on GitHub in the directory <username>/CLCV22123/9 and paste a link to the file on Canvas.
   
-### Critique of two digital tool
+### Critique of two digital tools
 - [The Homer Multitext project](https://www.homermultitext.org/)
 - [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
 

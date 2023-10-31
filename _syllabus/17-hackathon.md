@@ -10,7 +10,7 @@ tags:
 ### Response Paper
 - Explore the impact of artificial intelligence on academic research and education. Discuss both the opportunities and challenges AI presents in the academic setting, and consider how it may shape the future of learning and knowledge creation.
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Logeion](https://logeion.uchicago.edu/)
 - [OCHRE: An Online Cultural and Historical Research Environment](https://voices.uchicago.edu/ochre/)
 

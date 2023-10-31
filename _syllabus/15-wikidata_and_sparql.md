@@ -13,7 +13,7 @@ tags:
 ### Response Paper
 - Based on your readings, expand shortly (less than 80 words) on the advantages of SPARQL over the other programming languages that we have examined this quarter. 
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [The Ancient Graffiti Project](http://ancientgraffiti.org/)
 - [Kenchreai Archaeological Archive](http://kenchreai.org/kaa)
 

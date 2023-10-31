@@ -10,7 +10,7 @@ tags:
 ### Response Paper
 - Based on today's reading, what's the difference a variable, a parameter, and an argument.
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Pleiades](https://pleiades.stoa.org/home)
 - [Orbis](https://orbis.stanford.edu/)
 

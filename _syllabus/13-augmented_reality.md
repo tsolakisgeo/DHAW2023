@@ -10,7 +10,7 @@ tags:
 ### Response Paper
 - Based on your readings, expand shortly (less than 80-100 words) how has the integration of augmented reality in archaeology readings impacted our understanding of historical sites and museums.
 
-### Critique of two digital tool
+### Critique of two digital tools
 - [Ancient Inscriptions from Israel / Palestine](https://www.inscriptionsisraelpalestine.org/)
 - [The Oxyrhynchus Papyri](https://oxyrhynchus.web.ox.ac.uk/)
 
