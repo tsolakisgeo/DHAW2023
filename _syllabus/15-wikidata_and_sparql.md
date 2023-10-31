@@ -6,10 +6,9 @@ tags:
 ---
 
 ## Assignments due:
-- Be prepare to present in three minutes the general directions of your final project.
 
 ### Final Project
-- Be prepare to present in three minutes the general directions of your final project.
+- Be prepared to present in three minutes the general directions of your final project.
 
 ### Response Paper
 - Based on your readings, expand shortly (less than 80 words) on the advantages of SPARQL over the other programming languages that we have examined this quarter. 
