@@ -29,7 +29,7 @@ tags:
 
 - [Workspaces](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#workspaces)
 
-<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png">
+<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png" style="width:48">
 
 ### Blender shortcuts
 - Shift + A: Add
