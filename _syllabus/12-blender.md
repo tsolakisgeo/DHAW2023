@@ -25,11 +25,11 @@ tags:
 
 - [Menus](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#menus)
 
-<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png" style="width:48">
+<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png" width="100%">
 
 - [Workspaces](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#workspaces)
 
-<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png" style="width:48">
+<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png" width="100%">
 
 ### Blender shortcuts
 - Shift + A: Add
