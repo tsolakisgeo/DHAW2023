@@ -18,12 +18,21 @@ tags:
 
 ## Notes 
 
-#### Blender shortcuts
+### Interface
+[3D viewport](https://docs.blender.org/manual/en/latest/editors/3dview/index.html)
+
+[Topbar](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#)
+[Menus](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#menus)
+![Menus]https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png
+[Workspaces](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#workspaces)
+![Workspaces]https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png
+
+### Blender shortcuts
 - Shift + A: Add
 - Tab: Swift between Object Mode and Edit Mode
 - Shift + R: Repeat
 
-#### Creating a 3D model of Crete
+### Creating a 3D model of Crete
 
 ##### QGIS
 - First, you have to export two images from QGIS. Select a layer with elevation data and another with 
@@ -53,6 +62,10 @@ tags:
   - In base color click the dot. Image texture. Open the second .jpg file you exported.
 
 - Choose amonge the spheres above the nagivation tools, the Display render preview (the one on the right)
+
+
+### Blender for Archaeology
+
 
 #### Blender tutorials
 - [Reconstructing archaeology Baalshamin temple (Palmyra) in Blender](https://www.youtube.com/watch?v=XfRsfwipq_0)
