@@ -31,7 +31,7 @@ tags:
 
 ![Workspaces](https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png)
 
-<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png"></img>
+<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png">
 
 ### Blender shortcuts
 - Shift + A: Add
