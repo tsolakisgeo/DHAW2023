@@ -25,7 +25,7 @@ tags:
 
 - [Menus](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#menus)
 
-![Menus](https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png)
+<img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png" style="width:48">
 
 - [Workspaces](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#workspaces)
 
