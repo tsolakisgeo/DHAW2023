@@ -41,19 +41,24 @@ tags:
   - __Edit Mode__: A mode for editing an object’s shape (vertices/edges/faces for meshes, control points for curves/surfaces, points/strokes for Grease Pencil, etc.).
   - Change between those modes by pressing tab.
 
+
 ### Blender shortcuts
 - Shift + A: Add
 - Tab: Swift between Object Mode and Edit Mode
 - Shift + R: Repeat
 - Edit -> Preferences -> Input -> Emulate Nunpad
+- Rotate the view: Middle mouse button
+- Pan the view: Shift + Middle mouse button
+- Zoom
+
 
 ### Creating a 3D model of Crete
 
-##### QGIS
+#### QGIS
 - First, you have to export two images from QGIS. Select a layer with elevation data and another with 
 - Project -> Import/Export -> Export map to image (choose 1200 dpi)
 
-##### Open Blender
+#### Open Blender
   - Select and delete the cube
   - Select and delete the light
   - Shift + A -> Mesh -> Plane
@@ -82,7 +87,7 @@ tags:
 ### Blender for Archaeology
 
 
-#### Blender tutorials
+### Blender tutorials
 - [Reconstructing archaeology Baalshamin temple (Palmyra) in Blender](https://www.youtube.com/watch?v=XfRsfwipq_0)
 - [How to Create 3D Terrain with Google Maps and Blender!](https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek)
 - [Blender GIS - introduction and complete workflow](https://www.youtube.com/watch?v=u8Fg-u-VWUE)
