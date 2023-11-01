@@ -31,10 +31,21 @@ tags:
 
 <img src="https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png" width="100%">
 
+- Scene Collection
+  - Camera
+  - Light
+  - Plane
+
+- Modes
+  - __Object Mode__: The default mode, available for all object types. Allows editing position, rotation and scale, duplicating objects, and so on.
+  - __Edit Mode__: A mode for editing an object’s shape (vertices/edges/faces for meshes, control points for curves/surfaces, points/strokes for Grease Pencil, etc.).
+  - Change between those modes by clicking outside your object and pressing tab.
+
 ### Blender shortcuts
 - Shift + A: Add
 - Tab: Swift between Object Mode and Edit Mode
 - Shift + R: Repeat
+- Edit -> Preferences -> Input -> Emulate Nunpad
 
 ### Creating a 3D model of Crete
 
