@@ -38,7 +38,7 @@ tags:
   - Repeat (several times) with Shift + R
 - Return to Object mode
 - Modifier (looks like a wrench)
-  - Add modifier -> Difform -> Displace
+  - Add modifier -> Deform -> Displace
   - New
   - Srength 0.05
   - Midlevel 0.1
