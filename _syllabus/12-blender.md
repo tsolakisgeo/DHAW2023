@@ -22,9 +22,13 @@ tags:
 [3D viewport](https://docs.blender.org/manual/en/latest/editors/3dview/index.html)
 
 [Topbar](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#)
+
 [Menus](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#menus)
+
 ![Menus]https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_menus.png
+
 [Workspaces](https://docs.blender.org/manual/en/latest/interface/window_system/topbar.html#workspaces)
+
 ![Workspaces]https://docs.blender.org/manual/en/latest/_images/interface_window-system_topbar_workspaces.png
 
 ### Blender shortcuts
