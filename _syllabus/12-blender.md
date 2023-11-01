@@ -39,7 +39,7 @@ tags:
 - Modes
   - __Object Mode__: The default mode, available for all object types. Allows editing position, rotation and scale, duplicating objects, and so on.
   - __Edit Mode__: A mode for editing an object’s shape (vertices/edges/faces for meshes, control points for curves/surfaces, points/strokes for Grease Pencil, etc.).
-  - Change between those modes by clicking outside your object and pressing tab.
+  - Change between those modes by pressing tab.
 
 ### Blender shortcuts
 - Shift + A: Add
