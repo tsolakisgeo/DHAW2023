@@ -43,13 +43,15 @@ tags:
 
 
 ### Blender shortcuts
-- Shift + A: Add
-- Tab: Swift between Object Mode and Edit Mode
-- Shift + R: Repeat
 - Edit -> Preferences -> Input -> Emulate Nunpad
 - Rotate the view: Middle mouse button
 - Pan the view: Shift + Middle mouse button
 - Zoom
+- T: Toggle Toolbar
+- N: Toggle Sidebar
+- Shift + A: Add
+- Tab: Swift between Object Mode and Edit Mode
+- Shift + R: Repeat
 
 ### Blender tutorials
 - [Reconstructing archaeology Baalshamin temple (Palmyra) in Blender](https://www.youtube.com/watch?v=XfRsfwipq_0)
@@ -97,6 +99,22 @@ tags:
 - Choose amonge the spheres above the nagivation tools, the Display render preview (the one on the right)
 
 
-### Blender for Archaeology
+## Blender for Archaeology
 
+#### Create a 3D Amphrora
+- __Change view__: Press 1 to go to Front Orthographic
+- __Add image__: In Object mode, Add -> Image -> Background
+- __Scene Properties__: Units -> Metric & Centimeters
+- __Scale__: The Rule of Three
+- __Delete vertices__: In Edit Mode, press A and delete Vertices
+- __3D cursor__: Move it to the bottom of the object. 
+- __Set origin__: Object Mode: Object - Set Origit -> Origin to 3D Cursor
+- __Trace the amphora__: Ctrl + Shift + Right Click
+- __Correction__: In case you need to make a correction Edge -> Subdivide. Press G to reposition it.
+- __Select all points__
+- __Change view__: Press 7 to go to Top Orthographic
+- __Spin__: 360 degress in more than 150 steps
+- __Increase the polygon count__: Modifiers -> Add Modifier -> Generate -> Subdivision Surface
+- __Smooth appearance__: Object -> Shade Smooth
+- __3D-Print Toolbox__
 
