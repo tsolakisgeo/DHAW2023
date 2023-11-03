@@ -38,3 +38,4 @@ Upload your response paper and your digital tool critique on GitHub: Create an [
 - [Python Programming for the Humanities](https://github.com/sonofmun/MM-Python-Course). This repository is adapted from the previous resource with examples in ancient Greek.
 - Karsdorp, F., Kestemont, M., Riddell, A. (2021) _[Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/)_.
 - Altenkirch, T., Triguero, I. (2020) _Conceptual Programming with Python_.
+- Dombrowski, Q., Gniady, T., and  Kloster, D. (2019) "Introduction to Jupyter Notebooks," _Programming Historian_ 8 , https://doi.org/10.46430/phen0087.
