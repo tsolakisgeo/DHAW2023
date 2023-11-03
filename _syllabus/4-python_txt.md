@@ -14,4 +14,6 @@ tags:
 
 
 ## Extra Readings
-Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo. Check especially chapters 1-5. [Link](https://www.nltk.org/book/)
+- Bird, S., Klein, E., Loper, E. (2009) _Natural Language Processing with Python_, O’Reilly: Beijing - Cambridge - Farnham - Köln - Sebastopol - Taipei - Tokyo. Check especially chapters 1-5. [Link](https://www.nltk.org/book/)
+- Turkel, W. J., Crymble, A. (2012) "Manipulating Strings in Python," _Programming Historian_ 1, https://doi.org/10.46430/phen0013.
+- - Turkel, W. J., Crymble, A. (2012) "Normalizing Textual Data with Python," Programming Historian 1, https://doi.org/10.46430/phen0014.
