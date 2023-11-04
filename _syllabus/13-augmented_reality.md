@@ -25,7 +25,8 @@ tags:
 - Younes, G., Kahil, R., Jallad, M., Asmar, D., Elhajj, I., Turkiyyah, G., Al-Harithy, H. (2017) “Virtual and augmented reality for rich interaction with cultural heritage sites: A case study from the Roman Theater at Byblos,” _Digital Applications in Archaeology and Cultural Heritage_, 5, pp. 1-9.
 - Kyriakou, P., Hermon, S. (2019) “Can I touch this? Using Natural Interaction in a Museum Augmented Reality System,” _Digital Applications in Archaeology and Cultural Heritage_, 12, p. e00088.
 - Liang, J. (2021) “Mixing Worlds: Current Trends in Integrating the Past and Present through Augmented and Mixed Reality,” _Advances in Archaeological Practice_, 9; 3, pp. 250-256.
--  Watch the [Augment commercial video](https://www.youtube.com/watch?v=tluBuQqeIiI).
+- Pittarello, F., Carrieri, A., Pellegrini, T., Volo, A. (2023) “Designing Accessible Urban AR Experiences for Digital Humanities,” in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 1-6.
+- Watch the [Augment commercial video](https://www.youtube.com/watch?v=tluBuQqeIiI).
 - Watch the [Augment 4.0 App Tutorials’ playlist](https://www.youtube.com/watch?v=IsVz5K15uNU&list=PLv-4fjJycLXk3IOhaC1WSBa3IgmReP3Jw&ab_channel=Augment).
 
 ## Notes 
