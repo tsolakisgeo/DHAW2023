@@ -64,6 +64,7 @@ tags:
 - [3D Model In Minutes Blender 2.9 Gothic Columns & Arches](https://www.youtube.com/watch?v=VTgELK7Hi7o&ab_channel=3DTudor)
 - [How to Use Curves in Blender](https://www.youtube.com/watch?v=Ve9h7-E8EuM&ab_channel=RyanKingArt)
 - [Create Mirrored Duplicates Objects](https://www.youtube.com/watch?v=qn3zRuCs4kA&ab_channel=BlenderRookie)
+- [Let's model a column in Blender](https://www.youtube.com/watch?v=68oRQvV6GhY)
 
 
 
