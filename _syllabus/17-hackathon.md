@@ -18,4 +18,4 @@ tags:
 No assignment. Be prepared to talk about problems you face with your final project. We will work together in class on your projects. Come in class with questions and problems.
 
 ## Readings 
-- Swaffird, A, (2014) How to create a successful Digital Humanities Project. Available [here](https://hawksites.newpaltz.edu/dhm293/2014/11/13/how-to-create-a-successful-digital-humanities-project/).
+- Swaffird, A. (2014) How to create a successful Digital Humanities Project. Available [here](https://hawksites.newpaltz.edu/dhm293/2014/11/13/how-to-create-a-successful-digital-humanities-project/).
