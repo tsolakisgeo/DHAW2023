@@ -11,7 +11,7 @@ tags:
 - Be prepared to present in three minutes the general directions of your final project.
 
 ### Response Paper
-- Based on your readings, expand shortly (less than 80 words) on the advantages of SPARQL over the other programming languages that we have examined this quarter. 
+- Based on your readings, expand shortly (less than 80 words) on the advantages of SPARQL over the other programming languages that we have examined this quarter. Upload your file on GitHub in the directory `<username>/CLCV22123/15`. Put a link to your file on Canvas.
 
 ### Critique of two digital tools
 - [The Ancient Graffiti Project](http://ancientgraffiti.org/)
