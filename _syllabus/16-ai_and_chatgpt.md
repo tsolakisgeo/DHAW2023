@@ -8,7 +8,7 @@ tags:
 ## Assignments due:
 ### Weekly assignment
 - SQL query: Based on Hanson, J. W. (2016) _Cities Database_ (OXREP databases) DOI: [https://doi.org/10.5287/bodleian:eqapevAn8](https://doi.org/10.5287/bodleian:eqapevAn8), create an ordered list with the city of each province with the most monuments, along with the counts of the monuments. Upload your notebook with the Excel file in the directory `<username>/CLCV22123/16`.
-- Write a SPARQL query to receive the works of all authors who lived in fifth-century Athens.
+- Write a SPARQL query to receive all Athenian writers of fifth-century BCE.
 - Upload both as Jupyter Notebooks on GitHub in the directory `<username>/CLCV22123/16`. Put the link to your GitHub directory on Canvas.
   
 ## Readings 
